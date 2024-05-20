@@ -122,6 +122,7 @@ Ankh Feature Extraction Nucleocytoplasmic Negative Independent Testing.ipynb
 All the training and independent test data are uploaded at the following Google Drive link:
 https://drive.google.com/drive/folders/1x7oplkL7webstaSPZ-49ie7bl6FC-zkh?usp=sharing
 <br>
+https://drive.google.com/drive/folders/1US_ET64jcjb2HaBOPyry27d79QmDEGVN
 <br>
 <br>
 **If you need any help don't hesitate to get in touch with Dr. Subash Chandra Pakhrin (pakhrins@uhd.edu)**
