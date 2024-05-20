@@ -119,7 +119,7 @@ Ankh Feature Extraction Nucleocytoplasmic Negative Independent Testing.ipynb
 <br>
 
 ## Datasets Availablity
-All the training and independent test data are uploaded at the following Google Drive link:
+All the training and independent test data are uploaded at the following Google Drive links:
 https://drive.google.com/drive/folders/1x7oplkL7webstaSPZ-49ie7bl6FC-zkh?usp=sharing
 <br>
 https://drive.google.com/drive/folders/1US_ET64jcjb2HaBOPyry27d79QmDEGVN
