@@ -126,4 +126,8 @@ https://drive.google.com/drive/folders/1US_ET64jcjb2HaBOPyry27d79QmDEGVN
 <br>
 https://drive.google.com/drive/folders/1sm4UpxB85iOJx5M7g-J3qvicmRCoccxh?usp=drive_link
 <br>
+https://drive.google.com/drive/folders/10w4IvzN5xz7YfyiqAumlgq9mEodYKYx4
+<br>
+https://drive.google.com/drive/folders/1MoEsfnoxpDQ6zxIbId2G6yMMsZq-hnSB
+<br>
 **If you need any help don't hesitate to get in touch with Dr. Subash Chandra Pakhrin (pakhrins@uhd.edu)**
