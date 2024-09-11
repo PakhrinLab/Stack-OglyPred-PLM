@@ -132,7 +132,12 @@ https://drive.google.com/drive/folders/1MoEsfnoxpDQ6zxIbId2G6yMMsZq-hnSB
 <br>
 https://drive.google.com/drive/folders/1KlQTmliwIHaBZnY9MZj7aTGXe49Kv4oM
 <br>
-Nucleocytoplasmic (OGlacNAc) Training Dataset in 81 window Peptide formate
+Nucleocytoplasmic (OGlacNAc) Training and Independent Test Dataset in 81 window Peptide formate
 https://drive.google.com/drive/folders/1HWnF7oP-jqKLEbY5ZI9pSKA2F8BHc0Y-
+<br>
+Extracellular (OGalNAc) Training and Independent Test Dataset in 81 window Peptide formate
+https://drive.google.com/drive/folders/1aOvvuvHQwLyH3bHdAdcquwa9NwEGEtwZ
+<br>
+<br>
 <br>
 **If you need any help don't hesitate to get in touch with Dr. Subash Chandra Pakhrin (pakhrins@uhd.edu)**
